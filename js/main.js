@@ -1,10 +1,12 @@
 /**********************************文档区*****************************************/
 var text1=`/*
-* 大家好，我是AYJCSGM。
+* 大家好，我是郑麒。
 * 下面我来简单介绍一下我自己。
 * 但是文字介绍过于单调。
 * 今天，来点不一样的。
 * 来做一个动态简历。
+* 当然喽，我不太了解前端的技术，所以这个是从GitHub上下载下来的。
+* 小郑在此感谢GitHub上各路的大佬们了。
 */
 
 *{
@@ -58,72 +60,65 @@ html{
 
 var text2=`# 自我介绍
 
-AYJCSGM
+郑麒
 ----
-23岁，Java软件工程师，三年Java EE 从业经验，目前在北京工作。
-有良好的文档编写和代码书写规范，能独立解决问题、百折不挠、细节控。
+23岁，图形学几何处理方向的研究生，两年C++经验，参与过两个项目。
+有良好的文档编写和代码书写规范，能独立解决问题、百折不挠、行动派，喜欢将算法落地。
+酷爱水果、喜欢散步，偶尔篮球和游戏，库里球迷
 <br/>
 
 
 技能
 ----
-* 后端开发
-* 聚合支付
-* 单点登录
-* 权限管理
-* 公众号/小程序开发
-* API接口开发
-* Linux
+* 几何算法
+* 渲染
+* CAD模型显示
 * 开源爱好者
-* 博客系统
+
 
 技术及语言
 ----
-  - **Java**: SpringBoot、SpringCloud、SpringMVC、MyBatis、Shiro、Freemarker
-  - **前端**: VueJs、Bootstrap、LayUI、jQuery UI
-  - **数据库**: MySQL/MariaDB、SQLServer、Oracle、MongoDB、redis、memcached
-  - **web 服务器**: Nginx、Tomcat、Apache、Jetty
-  - **OS**: Linux、Windows
-  - **Others**: Git、Svn、Maven、XMind、Visio、IDEA
+  - **编程语言**: C++、python
+  - **几何引擎**: OpenCasCade
+  - **渲染引擎**: Vulkan/VulkanSceneGraph
+  - ** 前端框架**: Qt、Imgui
+  - **OS**: Windows
+  - **Others**: Git、Visio、PPT
+
+教育经历
+----
+1. 2019~2023 山东大学物理系学士
+2. 2023~至今 山东大学软件工程硕士
 
 工作经历
 ----
-1. [北京江融信科技有限公司](http://www.jiangrongxin.com/)
+还没有捏，等硕士毕业吧
 
 
-开源项目
+项目
 ----
-1. [基于SpringBoot + Semantic UI + JPA的个人博客](https://github.com/AYJCSGM/spring-boot-blog)
-2. [问卷调查系统](https://github.com/AYJCSGM/survey-system)
-3. [企业级博客](https://github.com/AYJCSGM/Enterprise-Blog)
-4. [客户管理系统](https://github.com/AYJCSGM/ClientManageSystem)
-5. [一个会动的简历](https://github.com/AYJCSGM/resume)
-6. [仓库管理系统](https://gitee.com/ayjcsgm/WM)
-7. [AYJCSGM的技术博客网站](https://github.com/AYJCSGM/AYJCSGM.github.io)
+1. CAD智能编辑
+2. CAD模型查看器
+3. PCB三维渲染
+4. 搭建的个人主页以及动态简历
 
 链接
 ----
-* [技术博客](https://ayjcsgm.github.io/)
-* [GitHub](https://github.com/AYJCSGM)
-* [码云](https://gitee.com/ayjcsgm)
-* [CSDN](https://blog.csdn.net/weixin_43664418)
-* [开发笔记](https://github.com/AYJCSGM/AYJCSGM.github.io)
 
-[归档文章](https://ayjcsgm.github.io/)
-----
-1. [Java](https://ayjcsgm.github.io/tags/java/)
-2. [Linux](https://ayjcsgm.github.io/tags/Linux/)
-3. [Spring](https://ayjcsgm.github.io/tags/Spring)
-4. [MySQL](https://ayjcsgm.github.io/tags/SQL)
-5. [Hexo](https://ayjcsgm.github.io/tags/Hexo)
-6. [Docker](https://ayjcsgm.github.io/tags/Docker/)
+* [技术博客](https://htl309.github.io/)
+* [GitHub](https://github.com/htl309)
+* [码云](https://gitee.com/htl309)
+* [CSDN](https://blog.csdn.net/qq_46348003)
+
+
+\
 
 联系我
 ----
-* 联系QQ：**1141341095** 
-* 主要涉及技术：**Java后端开发**、**聚合支付**、**公众号开发**、**开源爱好者**、**Linux** 
+* 联系QQ：**963385291** 
+* 主要涉及技术：**几何建模**、**Qt开发**、**Vulkan渲染**、**开源爱好者**、**C++** 
 
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/AYJCSGM/resume)，打造你自己的简历！
+> 做着玩的，五一节的放松活动，图一乐，当然我也希望简历能更加丰富
 `;
 
 var text3=`
